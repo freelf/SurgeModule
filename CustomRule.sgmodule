@@ -2,4 +2,4 @@
 #!desc=自定义梯子规则
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT,update-interval=86400
+RULE-SET, https://raw.githubusercontent.com/JipingWei/SurgeModule/main/pt.list, DIRECT, update-interval=86400
