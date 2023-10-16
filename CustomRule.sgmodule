@@ -3,5 +3,4 @@
 
 [Rule]
 RULE-SET, https://raw.githubusercontent.com/JipingWei/SurgeModule/main/pt.list, DIRECT, update-interval=86400
-DOMAIN-KEYWORD, cloud.freelf.me, DIRECT
-DOMAIN-SUFFIX,cloud.freelf.me, DIRECT
+DOMAIN-SUFFIX, cloud.freelf.me, DIRECT
