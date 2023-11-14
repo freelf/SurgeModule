@@ -2,7 +2,6 @@
 #!desc=自定义梯子规则
 
 [Rule]
-RULE-SET, https://raw.githubusercontent.com/JipingWei/SurgeModule/main/pt.list, DIRECT, update-interval=86400
 DOMAIN-SUFFIX, cloud.freelf.me, DIRECT
 SRC-IP, 192.168.31.151, DIRECT
 SRC-IP, 192.168.31.152, DIRECT
