@@ -2,10 +2,9 @@
 #!desc=自定义梯子规则
 
 [Rule]
+RULE-SET, https://raw.githubusercontent.com/freelf/SurgeModule/main/pt.list, DIRECT, update-interval=86400
 DOMAIN-SUFFIX, cloud.freelf.me, DIRECT
-DOMAIN-SUFFIX, piggo.me, DIRECT
 DOMAIN-SUFFIX, 1password.com, DIRECT
-DOMAIN-KEYWORD, ggpuke, DIRECT
 DOMAIN-SUFFIX, mbpkk.com, DIRECT
 SRC-IP, 192.168.31.151, DIRECT
 SRC-IP, 192.168.31.152, DIRECT
@@ -13,3 +12,8 @@ SRC-IP, 192.168.31.153, DIRECT
 SRC-IP, 192.168.31.154, DIRECT
 IP-CIDR, 45.157.176.181/32, DIRECT
 IP-CIDR, 89.58.43.7/32, DIRECT
+# t-mobile
+IP-CIDR,208.54.0.0/16,DIRECT
+IP-CIDR,66.94.0.0/19,DIRECT
+IP-CIDR,206.29.177.36/32,DIRECT
+
