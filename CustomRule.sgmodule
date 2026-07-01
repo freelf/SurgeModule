@@ -11,6 +11,7 @@ DOMAIN-SUFFIX, ourbits.club, Proxies
 DOMAIN-SUFFIX, pterclub.com, Proxies
 DOMAIN-SUFFIX, btschool.club, Proxies
 DOMAIN-SUFFIX, alpha123.uk, Proxies
+DOMAIN-SUFFIX, api-huacloud.net, DIRECT
 DOMAIN-KEYWORD, webike, Proxies
 SRC-IP, 192.168.31.151, DIRECT
 SRC-IP, 192.168.31.152, DIRECT
